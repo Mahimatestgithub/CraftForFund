@@ -8,5 +8,5 @@ For UI Look :: https://craftforfund.vercel.app/
 
 ## Full Video Demostration :: 
 
-https://github.com/Vimal2023/D-CraftForFund/assets/78069624/48616c59-55ce-470b-a245-9e11e51b919f
+
 
